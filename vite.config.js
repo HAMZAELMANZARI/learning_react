@@ -3,6 +3,6 @@ import { defineConfig } from 'vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/YOUR_REPOSITORY_NAME",
+  base: "/learning_react",
   plugins: [react()],
 })
